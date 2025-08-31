@@ -10,6 +10,8 @@ An interactive Streamlit application for exploring and analyzing data from a fic
 ```
 
 ## 📷 ER Diagram
+![ER Diagram](./ERD.png)
+
 
 
 ## ⚙️ Requirements
